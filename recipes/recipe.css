@@ -40,3 +40,9 @@ img {
     border: 2px;
     padding: 5px;
 }
+
+a {
+    text-decoration: none;
+    color: rgb(72, 141, 6);
+    font-size: 20px;
+}
